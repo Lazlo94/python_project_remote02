@@ -1,3 +1,4 @@
+''' Funktion zur Addition '''
 def calcAdd():
     a = int(input("Bitte gib eine Zahl ein: "))
     b = int(input("Gibt eine weitere Zahl ein: "))
@@ -7,6 +8,7 @@ def calcAdd():
 
 calcAdd()
 
+''' Funktion zur Multiplikation '''
 def calcMulti():
     a = int(input("Bitte gib eine Zahl ein: "))
     b = int(input("Gibt eine weitere Zahl ein: "))
